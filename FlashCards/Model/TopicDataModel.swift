@@ -7,6 +7,7 @@
 
 import Foundation
 
-struct TopicDataModel {
-    
+struct TopicDataModel: Codable {
+    let id: String
+    let title: String
 }
