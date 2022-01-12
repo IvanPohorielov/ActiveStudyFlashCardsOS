@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.4)
+  - IQKeyboardManagerSwift (6.5.9)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Result (5.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Moya (~> 14.0)
+  - Result
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Moya
+    - Result
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Result: ed341d2f236af425b803e690e9bd8fd0a0cb7c5a
+
+PODFILE CHECKSUM: d7010620e5e11394a97ee0feb1e93fe4e11a697a
+
+COCOAPODS: 1.11.2
